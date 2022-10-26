@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\bin\Debug\netcoreapp3.1\CsvParser.Data.deps.json
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\bin\Debug\netcoreapp3.1\CsvParser.Data.runtimeconfig.json
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\bin\Debug\netcoreapp3.1\CsvParser.Data.runtimeconfig.dev.json
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\bin\Debug\netcoreapp3.1\CsvParser.Data.dll
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\bin\Debug\netcoreapp3.1\CsvParser.Data.pdb
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.dll
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.pdb
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.genruntimeconfig.cache
+C:\Users\User\source\repos\CsvParser\CsvParser.parse\obj\Debug\netcoreapp3.1\CsvParser.Data.csproj.AssemblyReference.cache
